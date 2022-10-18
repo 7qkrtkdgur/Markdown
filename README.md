@@ -140,17 +140,18 @@ cancelline
 [구글](http://www.google.com)
 구글
 
-이미지 (IMAGES)
+## 이미지 (IMAGES)
 이미지 경로는 http:// 로 URL 경로 전체를 쓰셔도 되고, 같은 서버 경로에서 써도 됩니다.
 
+```
 ![사진이름](사진경로)
 ![Alt text](/resources/images/logo/64x64.png)
 ![Alt text](/resources/images/logo/64x64.png "Optional title")
+```
 
 
 
-
-코드 (CODE)
+## 코드 (CODE)
  `코드 내용`
 코드 내용
 
