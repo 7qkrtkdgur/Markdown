@@ -31,8 +31,6 @@
 
 > This is a blockqute.
 
-> This is a blockqute. <br>
-This is a blockqute.
 
 This is a blockqute.
 
