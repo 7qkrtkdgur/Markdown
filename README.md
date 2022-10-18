@@ -97,23 +97,43 @@ This is a blockqute.
 ```
 ***
 
-강조(EMPPHASIS)
+
+## 강조(EMPPHASIS)
+
+```
 *single asterisks*
+```
+
 single asterisks
 
+```
 _single underscores_
+```
+
 single underscores
 
+```
 **double asterisks**
+```
+
 double asterisks
 
+```
 __double underscores__
+```
+
 double underscores
 
+```
 ++underline++
+```
+
 ++underline++
 
+```
 ~~cancelline~~
+```
+
 cancelline
 
 링크 (LINKS)
