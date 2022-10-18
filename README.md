@@ -46,9 +46,9 @@ This is a blockqute.
     * three
 ```
 
-* one
- * two
-  * three
+ one
+  two
+   three
 + one
   + two
     + three
