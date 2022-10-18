@@ -40,12 +40,15 @@ This is a blockqute.
 
 순서가 없는 목록(Bullet Lists)은 *, +, - 기호를 사용하여, 계층이 필요한 경우에는 들여쓰기를 하면 된다.
 
+```
 * one
   * two
     * three
-one
-two
-three
+```
+
+* one
+ * two
+  * three
 + one
   + two
     + three
