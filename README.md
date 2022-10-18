@@ -89,7 +89,7 @@ This is a blockqute.
 2.two <br>
 3.tree <br>
 
-## 수평선 (HORIZONTAL RULES)
+# 수평선 (HORIZONTAL RULES)
 --, ***, ___ 기호 3개이상은 수평선으로 삽입된다.
 
 ```
@@ -98,7 +98,7 @@ This is a blockqute.
 ***
 
 
-## 강조(EMPPHASIS)
+# 강조(EMPPHASIS)
 
 ```
 *single asterisks*
@@ -136,7 +136,7 @@ double underscores
 
 cancelline
 
-## 링크 (LINKS)
+# 링크 (LINKS)
 
 ```
 [구글](http://www.google.com)
@@ -144,7 +144,7 @@ cancelline
 
 구글
 
-## 이미지 (IMAGES)
+# 이미지 (IMAGES)
 이미지 경로는 http:// 로 URL 경로 전체를 쓰셔도 되고, 같은 서버 경로에서 써도 됩니다.
 
 ```
@@ -155,14 +155,14 @@ cancelline
 
 
 
-## 코드 (CODE)
+# 코드 (CODE)
 ```
  `코드 내용`
 ```
 
 코드 내용
 
-## 코드 블록 (CODE BLOCKS)
+# 코드 블록 (CODE BLOCKS)
 코드 블록 표시는  `  3개로 시작해서 3개로 닫는다.
 
 ```
@@ -173,7 +173,7 @@ cancelline
 
  Spring str = "this is Code Blocks";
  
-## Markdown에 이미 사용되는 기호 표시(BACKSLASH ESCAPES)
+# Markdown에 이미 사용되는 기호 표시(BACKSLASH ESCAPES)
 
 Markdown 문법에 사용되는 기호를 있는 그대로 표시하고 싶을 경우가 있다. 예를 들어 # 마크를 그냥 쓰면 실제로는 H1 제목으로 출력되기 때문에 이 기호를 그대로 출력하고 싶다면 기호 앞에 \(=back slash) 문자를 써주면 된다. \(=back slash)를 그대로 사용하고 싶은 경우에는 \\를 2개를 쓰면 됩니다.
 
