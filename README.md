@@ -11,14 +11,14 @@
 
 #을 하나 쓰면 HTML의 <h1> 태그를, #을 두개 쓰면 <h2>태그를 의미한다. 1~6개까지 쓸 수 있고, #이 늘어날때마다 글씨 크기가 작아진다.
 
- '''
+```
 # This is a H1
 ## This is a H2
 ### This is a H3
 #### This is a H4
 ##### This is a H5
 ###### This is a H6
- '''
+```
  
 This is a H1
 This is a H2
