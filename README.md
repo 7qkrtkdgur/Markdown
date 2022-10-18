@@ -89,10 +89,13 @@ This is a blockqute.
 2.two <br>
 3.tree <br>
 
-수평선 (HORIZONTAL RULES)
+## 수평선 (HORIZONTAL RULES)
 --, ***, ___ 기호 3개이상은 수평선으로 삽입된다.
 
+```
 ***
+```
+
 강조(EMPPHASIS)
 *single asterisks*
 single asterisks
