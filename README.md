@@ -156,17 +156,25 @@ cancelline
 
 
 ## 코드 (CODE)
+```
  `코드 내용`
+```
+
 코드 내용
 
-코드 블록 (CODE BLOCKS)
+## 코드 블록 (CODE BLOCKS)
 코드 블록 표시는 ```로 시작해서 3개 ```으로 닫는다.
 
+```
 ```java
  Sptring str = "this is Code Blocks";   
 ` ``
+```
+
  Spring str = "this is Code Blocks";
-Markdown에 이미 사용되는 기호 표시(BACKSLASH ESCAPES)
+ 
+## Markdown에 이미 사용되는 기호 표시(BACKSLASH ESCAPES)
+
 Markdown 문법에 사용되는 기호를 있는 그대로 표시하고 싶을 경우가 있다. 예를 들어 # 마크를 그냥 쓰면 실제로는 H1 제목으로 출력되기 때문에 이 기호를 그대로 출력하고 싶다면 기호 앞에 \(=back slash) 문자를 써주면 된다. \(=back slash)를 그대로 사용하고 싶은 경우에는 \\를 2개를 쓰면 됩니다.
 
 Markdown에서 사용하는 기호는 아래와 같습니다.
