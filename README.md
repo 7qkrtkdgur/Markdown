@@ -71,18 +71,26 @@ This is a blockqute.
 2.two <br>
 3.tree <br>
 
+```
 1. one
 1. two
 1. tree
-one
-two
-tree
+```
+
+1.one <br>
+1.two <br>
+1.tree <br>
+
+```
 2. one
 1. two
 3. tree
-one
-two
-tree
+```
+
+1.one <br>
+2.two <br>
+3.tree <br>
+
 수평선 (HORIZONTAL RULES)
 --, ***, ___ 기호 3개이상은 수평선으로 삽입된다.
 
