@@ -46,21 +46,19 @@ This is a blockqute.
     * three
 ```
 
- one
-  two
-   three
+```
 + one
   + two
     + three
-one
-two
-three
+```
+
+```
 - one
 - two
 - three
-one
-two
-three
+```
+
+
 순서있는 목록(Numbered Lists)은 숫자를 사용합니다. 특징으로는 숫자의 순서와 상관없이 무조건 차례대로 표시된다.
 
 1. one
