@@ -179,6 +179,7 @@ Markdown 문법에 사용되는 기호를 있는 그대로 표시하고 싶을 �
 
 Markdown에서 사용하는 기호는 아래와 같습니다.
 
+```
 \   backslash
 `   backtick
 *   asterisk
@@ -191,3 +192,4 @@ _   underscore
 -   minus sign (hyphen)
 .   dot
 !   exclamation mark
+```
