@@ -2,7 +2,6 @@
 
 
 
-이 로고는 Dustin Curtis에 의해 만들어진 마크다운 로고이다.
 
 문법
 제목 (HEADERS)
