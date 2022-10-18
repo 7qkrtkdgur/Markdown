@@ -29,9 +29,9 @@
 인용 (BLOCK QUOTE)
 인용된 글을 표시하고자 할 때, > 기호를 사용합니다.
 
-> This is a blockqute.
+>  This is a blockqute.
 
-> This is a blockqute.
+>  This is a blockqute.
 This is a blockqute.
 
 This is a blockqute.
