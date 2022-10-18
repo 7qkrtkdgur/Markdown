@@ -20,12 +20,12 @@
 ###### This is a H6
 ```
  
-This is a H1
-This is a H2
-This is a H3
-This is a H4
-This is a H5
-This is a H6
+# This is a H1
+## This is a H2
+### This is a H3
+#### This is a H4
+##### This is a H5
+###### This is a H6
 인용 (BLOCK QUOTE)
 인용된 글을 표시하고자 할 때, > 기호를 사용합니다.
 
