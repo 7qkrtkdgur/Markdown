@@ -100,41 +100,15 @@ This is a blockqute.
 
 # 강조(EMPPHASIS)
 
-```
-*single asterisks*
-```
 
-single asterisks
+
+<b>double underscores</b>
 
 ```
-_single underscores_
+<b>double underscores</b>
 ```
 
-single underscores
 
-```
-**double asterisks**
-```
-
-double asterisks
-
-```
-__double underscores__
-```
-
-double underscores
-
-```
-++underline++
-```
-
-++underline++
-
-```
-~~cancelline~~
-```
-
-cancelline
 
 # 링크 (LINKS)
 
@@ -147,10 +121,10 @@ cancelline
 # 이미지 (IMAGES)
 이미지 경로는 http:// 로 URL 경로 전체를 쓰셔도 되고, 같은 서버 경로에서 써도 됩니다.
 
+<img src="https://user-images.githubusercontent.com/105197635/201247791-92549530-e213-40f6-869a-6c9b4ec21ea4.jpg" width=400 height=400>
+
 ```
-![사진이름](사진경로)
-![Alt text](/resources/images/logo/64x64.png)
-![Alt text](/resources/images/logo/64x64.png "Optional title")
+<img. src="https://user-images.githubusercontent.com/105197635/201247791-92549530-e213-40f6-869a-6c9b4ec21ea4.jpg" width=400 height=400>
 ```
 
 
@@ -173,23 +147,3 @@ cancelline
 
  Spring str = "this is Code Blocks";
  
-# Markdown에 이미 사용되는 기호 표시(BACKSLASH ESCAPES)
-
-Markdown 문법에 사용되는 기호를 있는 그대로 표시하고 싶을 경우가 있다. 예를 들어 # 마크를 그냥 쓰면 실제로는 H1 제목으로 출력되기 때문에 이 기호를 그대로 출력하고 싶다면 기호 앞에 \(=back slash) 문자를 써주면 된다. \(=back slash)를 그대로 사용하고 싶은 경우에는 \\를 2개를 쓰면 됩니다.
-
-Markdown에서 사용하는 기호는 아래와 같습니다.
-
-```
-\   backslash
-`   backtick
-*   asterisk
-_   underscore
-{}  curly braces
-[]  square brackets
-()  parentheses
-#   hash mark
-+   plus sign
--   minus sign (hyphen)
-.   dot
-!   exclamation mark
-```
